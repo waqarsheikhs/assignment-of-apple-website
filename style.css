@@ -1,0 +1,11 @@
+.nav{
+    background-color:black;
+}
+
+.nav1{
+    color: white;
+    display: inline;
+  padding-left: 42px;
+  padding-right: 42px;
+  display: run-in;
+}
